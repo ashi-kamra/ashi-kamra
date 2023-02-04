@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ashi-kamra
-- 👀 I’m interested in Computer Science and Art!
-- 🌱 I’m currently learning Javascript at Wellesley College right now
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in data journalism and visualizing global phenomenon through code!
+- 🌱 I’m currently learning Java at Wellesley College right now
 - 📫 How to reach me: email @ ak118@wellesley.edu
 
 <!---
