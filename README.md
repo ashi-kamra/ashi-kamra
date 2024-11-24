@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashi-kamra
 - 👀 I’m interested in front-end dev, data science and visualizing global phenomenon through code!
-- 🌱 I’m currently learning about Artifical Intelligence at Wellesley College right now
+- 🌱 I’m currently learning about Software Design and Computational Theory at Wellesley College right now
 - 📫 How to reach me: email @ ak118@wellesley.edu
 
 <!---
